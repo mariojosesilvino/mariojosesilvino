@@ -1,7 +1,8 @@
 Hello! You can contact me at
 
   <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn: https://www.linkedin.com/in/mario-jose-iii-silvino-890a17290/
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn:
+     https://www.linkedin.com/in/mario-jose-iii-silvino-890a17290/
   </a> &nbsp; 
 </p>
 
